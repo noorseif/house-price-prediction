@@ -16,9 +16,10 @@ It follows a full data science lifecycle that includes:
 
 The objective is to identify the best-performing regression model and understand the key factors influencing house prices.
 
-## Dataset Description
+## Dataset Credit
 
-The dataset used is `Housing.csv`, which contains the following types of features:
+The Housing dataset used in this project comes from the Kaggle “Housing Price Prediction Dataset”:
+https://www.kaggle.com/datasets/yasserh/housing-price-dataset
 
 ### Numeric Features
 - area  
@@ -168,9 +169,3 @@ Possible enhancements include:
 **Noor Hazem Ibrahim Seif**  
 Computer Science Student – American University of Sharjah  
 LinkedIn: https://www.linkedin.com/in/noor-seif-39babb328/
-
----
-## Dataset Credit
-
-The Housing dataset used in this project comes from the Kaggle “Housing Price Prediction Dataset”:
-https://www.kaggle.com/datasets/yasserh/housing-price-dataset
