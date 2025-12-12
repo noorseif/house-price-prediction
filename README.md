@@ -168,3 +168,9 @@ Possible enhancements include:
 **Noor Hazem Ibrahim Seif**  
 Computer Science Student – American University of Sharjah  
 LinkedIn: https://www.linkedin.com/in/noor-seif-39babb328/
+
+---
+## Dataset Credit
+
+The Housing dataset used in this project comes from the Kaggle “Housing Price Prediction Dataset”:
+https://www.kaggle.com/datasets/yasserh/housing-price-dataset
