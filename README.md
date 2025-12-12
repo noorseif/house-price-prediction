@@ -19,7 +19,7 @@ The objective is to identify the best-performing regression model and understand
 ## Dataset Credit
 
 The Housing dataset used in this project comes from the Kaggle “Housing Price Prediction Dataset”:
-https://www.kaggle.com/datasets/yasserh/housing-price-dataset
+https://www.kaggle.com/datasets/yasserh/housing-prices-dataset
 
 ### Numeric Features
 - area  
